@@ -1,0 +1,6 @@
+{
+    "name": "onboarding-buddy",
+    "version": "0.1.0",
+    "title": "Onboarding Buddy",
+    "description": "Helps a new engineer explore a repository's folder structure and file counts, one directory at a time."
+}
